@@ -8,7 +8,7 @@ I used the Genius Lyrics API and Merriam Webster Dictionary API as my 'input fro
 https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf?hl=en
 
 * Both the Genius API and Merriam Webster Dictionary API have limited number of calls per day per key which can make for the app to not load at times if requests are being made too often/too fast.
-* A video is located at the bottom of this readme that showcases the program and another video to showcase the code because I understand that due to the nature of the project, it can be difficult to run. I will be as detailed as possible and I am open to recieving questions about it.
+* Two videos are included in my submission to Brightspace that go over my program and my code due to these circumstances
 
 ##### Instructions to Run
 * After downloading the code, open terminal and cd into the directory where you downloaded the file.
