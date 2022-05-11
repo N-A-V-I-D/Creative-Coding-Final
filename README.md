@@ -10,6 +10,12 @@ https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgc
 * Both the Genius API and Merriam Webster Dictionary API have limited number of calls per day per key which can make for the app to not load at times if requests are being made too often/too fast.
 * A video is located at the bottom of this readme that showcases the program and another video to showcase the code because I understand that due to the nature of the project, it can be difficult to run. I will be as detailed as possible and I am open to recieving questions about it.
 
+##### Instructions to Run
+* After downloading the code, open terminal and cd into the directory where you downloaded the file.
+* Next, cd src
+* Run npm start
+* It will open the web app using any browser ( I used Chrome as I had to download that extension to allow for the Genius API to run)
+* The code for the app is stored inside App.js and the CSS is inside App.css
 ##### Sources 
 * https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf?hl=en
 * https://codepen.io/edeesims/pen/wvpYWW
