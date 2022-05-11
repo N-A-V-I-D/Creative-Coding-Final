@@ -9,6 +9,7 @@ https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgc
 
 * Both the Genius API and Merriam Webster Dictionary API have limited number of calls per day per key which can make for the app to not load at times if requests are being made too often/too fast.
 * Two videos are included in my submission to Brightspace that go over my program and my code due to these circumstances
+* I am happy to answer any questions you may have since my submission is unconventional 
 
 ##### Instructions to Run
 * After downloading the code, open terminal and cd into the directory where you downloaded the file.
